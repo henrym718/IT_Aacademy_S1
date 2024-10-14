@@ -52,6 +52,11 @@ body {
   padding: 10px;
   font-size: 25px;
 }
+.main__seccion {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 
 .main__container {
   display: flex;
